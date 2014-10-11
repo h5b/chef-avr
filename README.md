@@ -1,4 +1,9 @@
-chef-avr
-========
+# Description
+Installs AVR-GCC toolchain to support the development of C programs aimed
+at the family of Atmel AVR Microcontrollers.
 
-Chef cookbook for the AVR-GCC toolchain
+# Requirements
+
+# Attributes
+
+# Usage
