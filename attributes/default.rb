@@ -1,4 +1,4 @@
-default['avr-dev']['packages'] = [
+default['avr']['packages'] = [
   "avr-libc",
   "avrdude",
   "avrdude-doc",
